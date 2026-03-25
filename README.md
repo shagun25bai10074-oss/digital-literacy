@@ -1,4 +1,4 @@
-# digital-literacy
+# DIGITAL LITERACY
 
 Name- Shagun Sharma
 
