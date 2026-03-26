@@ -1,6 +1,3 @@
 ## BRIEF DESCRIPTION
 
-I have created this poster using Canva to present essential digital skills in a clear and engaging way. It highlights key areas such as digital literacy,
-safe practices, and maintaining a professional online presence. The poster explains how individuals can use digital tools effectively, protect their 
-personal information, stay aware of cyber threats, and build a positive image online. Overall, it aims to spread awareness about responsible and 
-smart use of technology in today’s digital world
+I have made this poster using the Canva tool, and the aim is to show the significance of basic digital skills in an easy-to-read and engaging manner. The poster will cover the main aspects of digital skills, such as digital literacy, safe use, and the development of a professional online image. The poster will also show how an individual can use digital tools, protect their personal information, remain aware of cyber threats and develop a positive image online. The aim is to spread the message of the smart and safe use of technology in today’s digital world.
