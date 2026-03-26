@@ -1,27 +1,25 @@
-# Stay Safe Online — Prevention Checklist (For College Students in India)
+## Stay Safe Online — Prevention Checklist (For College Students in India)
 
-1 Use strong, unique passwords for each account and enable two-factor authentication (2FA) wherever possible
+* Always check the emails, messages, and/or link before clicking. Be extra cautious while clicking messages that require you to do something
 
-2 Always verify emails, messages, or links before clicking—especially those asking for urgent action
+* Avoid using Wi-Fi for activities like banking and logging in to accounts.
 
-3 Avoid using public Wi-Fi for sensitive activities like banking or logging into important accounts
+* Keep your phone and laptop updated with the latest security patches and antivirus programs.
 
-4 Keep your phone and laptop updated with the latest security patches and antivirus software
+* Be cautious while sharing media. Avoid sharing details like college name, address, and phone number.
 
-5 Limit the personal information you share on social media (college, address, phone number, etc.)
+* Only download apps from stores like Google Play Store and Apple App Store.
 
-6 Download apps only from official stores like Google Play Store or Apple App Store
+* Do not share your UPI PIN, OTP, and banking details with anyone. This includes bank officials too.
 
-7 Never share your UPI PIN, OTP, or banking details with anyone—even if they claim to be from your bank
+* Always be cautious while making payments. Double-check the receiver's UPI ID and/or QR code before making a payment.
 
-8 Always double-check the receiver’s UPI ID or QR code before making any payment
+* Do not accept payment requests from apps like Google Pay and PhonePe.
 
-9 Avoid accepting unknown “collect request” (payment requests) on apps like Google Pay or PhonePe
+* Enable transaction alerts. Check bank statements regularly for suspicious transactions.
 
-10 Enable transaction alerts and regularly check your bank statements for any suspicious activity
+* If you think you have become a victim of cyber fraud, report it to the National Cyber Crime Portal cybercrime.gov.in.
 
-11 Immediately report cyber fraud on the National Cyber Crime Portal (cybercrime.gov.in)
+* Call the Cyber Crime Helpline at 1930 and report the incident as soon as possible to stop financial fraud.
 
-12 Call the Cyber Crime Helpline: 1930 as soon as possible to report financial fraud
-
-13 Inform your bank quickly to block transactions or freeze your account if needed
+* If you think your account is in danger, report it to your bank as soon as possible. They can stop the transaction. Freeze your account if needed.
